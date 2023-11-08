@@ -17,4 +17,11 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 
 ### Screenshots
 
-*Insert Screenshots here*
+![Truth table](https://github.com/abbaselmas/Assignment/assets/147317214/6373e4c9-a84f-458d-8899-449194c70378)
+
+![Karnaugh map](https://github.com/abbaselmas/Assignment/assets/147317214/36ff22ea-aff6-440e-88cc-0b83344e674a)
+
+![Circuit](https://github.com/abbaselmas/Assignment/assets/147317214/3a3fcdf2-9ace-46e8-81c8-c0abeab64ae9)
+
+![Simulation](https://github.com/abbaselmas/Assignment/assets/147317214/3bca777b-2187-4673-84ff-a2fd6679ecae)
+
